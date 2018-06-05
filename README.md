@@ -6,3 +6,8 @@
   - PLA.ipynb
   - PLA.py
   - Pocket_PLA.py
+
+## 2. kNN
+
+- includes:
+  - KNN.ipynb
