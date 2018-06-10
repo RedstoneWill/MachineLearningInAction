@@ -1,4 +1,4 @@
-## 数据保存云盘
+## CIFAR-10数据集下载地址：
 
 链接：https://pan.baidu.com/s/1iZPwt72j-EpVUbLKgEpYMQ
 
