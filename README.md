@@ -11,3 +11,8 @@
 
 - includes:
   - KNN.ipynb
+
+## 3. SVM
+
+- includes:
+  - SVM.ipynb
